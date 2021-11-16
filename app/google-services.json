@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576052392984",
+    "project_id": "pilemapps",
+    "storage_bucket": "pilemapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576052392984:android:9982749890ad88c83fbf6d",
+        "android_client_info": {
+          "package_name": "com.emud.pilemapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576052392984-obgd995e1i2ip5v6i12m6vr4eai29daf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpbgMIKSWc7bz6XjnoqBsNN7ps28sKI6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576052392984-obgd995e1i2ip5v6i12m6vr4eai29daf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

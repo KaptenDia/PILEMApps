@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">PILEM Apps</string>
+    <string name="lanjutkan">LANJUTKAN</string>
+    <string name="lewati">LEWATI</string>
+    <string name="memulai">MEMULAI</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="now_playing2">Pre-Sale</string>
+    <string name="now_playing3">Cashless</string>
+    <string name="now_playing_desctription">Lebih mudah untuk mengetahui
+        <br>film yang sedang tayang</br></string>
+    <string name="now_playing_desctription2">Tidak Khawatir Ketinggalan<br>Update Film Terbaru</br></string>
+    <string name="now_playing_desctription3">Gunakan E-Wallet Untuk<br>Transaksi Tiket</br></string>
+    <string name="signin">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="masuk_akun">MASUK AKUN</string>
+    <string name="daftar_akun_baru">DAFTAR AKUN BARU</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama">Nama</string>
+    <string name="email_address">Email Address</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="welcome">Welcome,<br>Pramudia Angga Prahasta</br></string>
+    <string name="simpan_dan_lanjutkan">SIMPAN DAN LANJUTKAN</string>
+    <string name="user">Pramudia</string>
+    <string name="now">NOW PLAYING</string>
+    <string name="coming_soon">COMING SOON</string>
+    <string name="pilih_bangku">Pilih Bangku</string>
+    <string name="beli_tiket">BELI TIKET</string>
+    <string name="checkout">CheckOut</string>
+    <string name="bayar_sekarang">BAYAR SEKARANG</string>
+    <string name="batalkan">BATALKAN</string>
+    <string name="when">When</string>
+    <string name="date">Date and Time</string>
+    <string name="cinema">Cinema</string>
+    <string name="seats">Seats</string>
+    <string name="no1">Seats No.C1</string>
+    <string name="no2">Seats No.C2</string>
+    <string name="total">Total Harus Dibayar</string>
+    <string name="e_wallet">E-Wallet</string>
+    <string name="balance">Total Balance</string>
+    <string name="profile">Edit Profile</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="saldo">Saldo Tersedia</string>
+    <string name="history">History</string>
+    <string name="presale">Presale</string>
+    <string name="cashless">Cashless</string>
+    <string name="sukses">Terima Kasih!</string>
+    <string name="suksesdesc">Tiket Telah Berhasil Dibeli
+        <br>Happy Watching!</br></string>
+    <string name="lihat">LIHAT TIKET</string>
+    <string name="home">HOME</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
