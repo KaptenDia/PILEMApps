@@ -7,6 +7,13 @@ import android.os.Looper
 import androidx.appcompat.app.AppCompatActivity
 import com.emud.pilemapps.onboarding.OnBoardingOneMainActivity
 
+/*
+    Ini Adalah Activity Pertama Yang Akan Dirun
+    Tidak Ada Fitur Baru Atau Spesial Disini
+    Hanya Melakukan Pending Time Beberapa
+    Detik Saja.
+ */
+
 class SplashScreenActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
